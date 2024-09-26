@@ -1,0 +1,47 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Ensure the navbar is fixed at the top and spans the full width */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030; /* Ensures it stays on top */
+}
+
+/* Align the links to the right within the navbar */
+.navbar-nav {
+    margin-left: auto; /* Pushes the navbar items to the right */
+}
+
+    /* Ensure that the navbar links are properly spaced */
+    .navbar-nav .nav-item {
+        margin-left: 15px; /* Adjust the spacing between items as needed */
+    }
+
+/* Responsive padding and spacing for smaller screens */
+@media (max-width: 767.98px) {
+    .navbar-nav {
+        margin-left: 0; /* Reset margin for smaller screens */
+    }
+
+        .navbar-nav .nav-item {
+            margin-left: 0; /* Reset spacing for smaller screens */
+        }
+}
+

@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mvc\\ContactAppProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|d:\\mvc\\contactappproject\\contactappproject\\webroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\webroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\controllers\\contactdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\controllers\\contactdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\scripts\\contactdetailscrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\scripts\\contactdetailscrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\scripts\\mycrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\scripts\\mycrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\viewcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\viewcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\viewcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\viewcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\viewstaffs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\viewstaffs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\shared\\_editcontactpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\shared\\_editcontactpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\shared\\_addcontactpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\shared\\_addcontactpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\user\\viewadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\user\\viewadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactAppDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|D:\\mvc\\ContactAppProject\\contactappproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA04E23D-BA1C-4B74-B7EE-BAD6EA0A4D9F}|ContactAppProject\\ContactAppProject.csproj|solutionrelative:contactappproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactAppDb/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebRoleProvider.cs",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\WebRoleProvider.cs",
+              "RelativeDocumentMoniker": "ContactAppProject\\WebRoleProvider.cs",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\WebRoleProvider.cs",
+              "RelativeToolTip": "ContactAppProject\\WebRoleProvider.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:50:03.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "ContactAppProject\\Data\\NHibernateHelper.cs",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "ContactAppProject\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:53:32.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactDetailController.cs",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Controllers\\ContactDetailController.cs",
+              "RelativeDocumentMoniker": "ContactAppProject\\Controllers\\ContactDetailController.cs",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Controllers\\ContactDetailController.cs",
+              "RelativeToolTip": "ContactAppProject\\Controllers\\ContactDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:34:29.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactAppProject\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactAppProject\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:44:04.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "myCrud.js",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Scripts\\myCrud.js",
+              "RelativeDocumentMoniker": "ContactAppProject\\Scripts\\myCrud.js",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Scripts\\myCrud.js",
+              "RelativeToolTip": "ContactAppProject\\Scripts\\myCrud.js",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-19T15:58:26.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ContactAppProject\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ContactAppProject\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:49:09.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T13:02:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:05:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T15:03:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ContactAppProject\\Global.asax.cs",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Global.asax.cs",
+              "RelativeToolTip": "ContactAppProject\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:04:11.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "contactDetailsCrud.js",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Scripts\\contactDetailsCrud.js",
+              "RelativeDocumentMoniker": "ContactAppProject\\Scripts\\contactDetailsCrud.js",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Scripts\\contactDetailsCrud.js",
+              "RelativeToolTip": "ContactAppProject\\Scripts\\contactDetailsCrud.js",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwEoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T05:41:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewContactDetails.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewContactDetails.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\ViewContactDetails.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewContactDetails.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\ViewContactDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:05:09.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewContacts.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewContacts.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\ViewContacts.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewContacts.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\ViewContacts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:05:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\EditUser.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\EditUser.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\EditUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:05:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewStaffs.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewStaffs.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\ViewStaffs.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewStaffs.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\ViewStaffs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T13:11:51.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_EditContactPartial.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Shared\\_EditContactPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\Shared\\_EditContactPartial.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Shared\\_EditContactPartial.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\Shared\\_EditContactPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T15:04:39.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewAdmins.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewAdmins.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\User\\ViewAdmins.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\User\\ViewAdmins.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\User\\ViewAdmins.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwD8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T13:10:38.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AddContactPartial.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Shared\\_AddContactPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\Shared\\_AddContactPartial.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Shared\\_AddContactPartial.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\Shared\\_AddContactPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T15:53:54.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactAppDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-21T13:05:03.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Contacts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactAppDb/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "dbo.Contacts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T16:16:26.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactAppProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mvc\\ContactAppProject\\ContactAppProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactAppProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:19:47.846Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
